@@ -1,0 +1,47 @@
+h1 {
+  color: white;
+  align-self: center;
+  color: white;
+	-webkit-text-stroke: 1px #F8F8F8;
+	text-shadow: 0px 2px 4px black;
+}
+
+
+.square {
+  width: 75%;
+  height: 500px;
+  align-content: center;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+
+#pink {
+  background-color: #ff54b5;
+  font-size: 14pt;
+  text-align: center;
+  border-style: outset;
+}
+
+#orange {
+  background-color: #ffbb37;
+  font-size: 14pt;
+  text-align: center;
+  border-style: outset;
+}
+
+#yellow {
+  background-color: #edea7f;
+  font-size: 14pt;
+  text-align: center;
+  border-style: outset;
+}
+
+#green {
+  background-color: #c6ff78;
+  font-size: 14pt;
+  text-align: center;
+
+
+}
