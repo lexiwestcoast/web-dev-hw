@@ -1,0 +1,57 @@
+h1 {
+  color: pink;
+  align-self: center;
+  <style>
+  body {
+    font-family: 'Fauna One', serif;
+    font-size: 16px;
+  }
+
+  h1 {
+    font-family: Cinzel, serif;
+    font-size: 46px;
+  }
+}
+
+.a:hover {
+  background-color: black;
+}
+
+.https://amandafrances.com {
+    width: 10em;
+    height: 5ex;
+    background-color: gold;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+}
+  https://amandafrances.com {
+      font-weight: bold;
+  }
+
+
+.square {
+  width: 75%;
+  height: 615px;
+  align-content: center;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+
+#pink {
+  background-color: #ff54b5;
+  font-size: 14pt;
+  text-align: center;
+  border-style: outset;
+}
+
+#orange {
+  background-color: #ffbb37;
+  font-size: 14pt;
+  text-align: center;
+  border-style: outset;
+}
